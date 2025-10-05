@@ -4,13 +4,13 @@ Your new AI Researcher, that can browse papers on a given topic at arxiv.org, re
 
 ▶️ Watch the Setup Video
 🎥 How to Get Started with This Project
-([https://www.youtube.com/watch?v=0ascQRbv7Kk](https://youtu.be/lUkW2mo-kJk?si=vtG3XIDGBzOHjAI-))
+([https://www.youtube.com/watch?v=0ascQRbv7Kk](https://youtu.be/lUkW2mo-kJk?si=vtG3XIDGBzOHj-))
 
 🚀 Quick Start
 
 Clone the repo and run:
 
-Setup UV if not already:  https://www.youtube.com/watch?v=Dgf7Lp0B_hI
+Setup UV if not already:  https://www.youtube.com/watch?v=Dgf7L10B_hI
 
 ```
 uv sync
